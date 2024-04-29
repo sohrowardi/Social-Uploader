@@ -3,8 +3,6 @@
 ## Overview
 This project aims to automate the process of uploading content to various social media platforms. It consists of Python scripts that create folders for each platform and upload content to them using respective API keys.
 
-Please note that this project is a work in progress and is not finished yet. Further development and refinement are needed to fully automate the content uploading process.
-
 ## Directory Structure
 - **config.json**: Contains API keys for different social media platforms.
 - **create_folders.py**: Python script to create folders for each platform.

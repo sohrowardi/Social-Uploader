@@ -1,9 +1,8 @@
 {
-    "facebook": "YOUR_FACEBOOK_API_KEY",
-    "instagram": "YOUR_INSTAGRAM_API_KEY",
-    "youtube": "YOUR_YOUTUBE_API_KEY",
-    "tiktok": "YOUR_TIKTOK_API_KEY",
-    "reddit": "YOUR_REDDIT_API_KEY",
-    "twitter": "YOUR_TWITTER_API_KEY"
-  }
-  
+  "facebook": "YOUR_FACEBOOK_API_KEY",
+  "instagram": "YOUR_INSTAGRAM_API_KEY",
+  "youtube": "YOUR_YOUTUBE_API_KEY",
+  "tiktok": "YOUR_TIKTOK_API_KEY",
+  "reddit": "YOUR_REDDIT_API_KEY",
+  "twitter": "YOUR_TWITTER_API_KEY"
+}
