@@ -1,6 +1,8 @@
 # Social Media Content Uploader
 
 ## Overview
+You know, as a content creator or digital content manager, when you publish content somewhere, you also need to upload more on the side. For example, if you upload a 40-minute video on YouTube, then you need to upload some short-form content on Facebook, Instagram, Twitter, some vertical videos on TikTok, Instagram Reels, and YouTube Shorts, as well as some short videos on your highlight channel. And those highlight channels have their own Facebook, YouTube, Instagram, and TikTok! It's really exhausting to do all of that manually, so I'm trying to build something that will make life easier
+
 This project aims to automate the process of uploading content to various social media platforms. It consists of Python scripts that create folders for each platform and upload content to them using respective API keys.
 
 ## Directory Structure
